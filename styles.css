@@ -1,0 +1,39 @@
+body{
+    width: 500px;
+    margin:auto !important;
+    text-align: center;
+   background-color: #332651 !important;
+}
+.button {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    border:solid 5px black;
+    margin: 10px auto 10px;
+}
+
+h2,p{
+    font-family: 'Ranchers';
+    text-align: center;
+    color: #fff;
+}
+
+#red {
+    background-color: #ff0303;
+}
+
+#blue {
+    background-color: #4a59ff;
+}
+
+#green {
+    background-color: #16ff00;
+}
+
+#yellow {
+    background-color: #ffed00;
+}
+.game-over{
+    background-color: red !important;
+    opacity: 0.8;
+}
